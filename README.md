@@ -1,1 +1,1 @@
-#wszytskie pliki znjadują się w odpowiednich gałęziach
+# wszytskie pliki znjadują się w odpowiednich gałęziach
